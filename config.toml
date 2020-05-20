@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://romantic-babbage-6d5608.netlify.app"
 title = "Центр геоинформационных исследований"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
