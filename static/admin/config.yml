@@ -14,7 +14,7 @@ collections:
     fields:
       - { label: 'Название', name: 'title', widget: 'string' }
       - { label: 'Дата', name: 'date', widget: 'datetime' }
-      - { label: 'Теги', name: 'date', widget: 'list' }
-      - { label: 'Категория', name: 'date', widget: 'list' }
+      - { label: 'Теги', name: 'tags', widget: 'list' }
+      - { label: 'Категория', name: 'categories', widget: 'list' }
       - { label: 'Обложка', name: 'banner', widget: 'image' }
       - { label: 'Текст', name: 'body', widget: 'markdown' }
