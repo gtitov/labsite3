@@ -13,7 +13,8 @@ collections:
       preview: false
     fields:
       - { label: 'Название', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Дата', name: 'date', widget: 'datetime' }
+      - { label: 'Теги', name: 'date', widget: 'list' }
+      - { label: 'Категория', name: 'date', widget: 'list' }
       - { label: 'Обложка', name: 'banner', widget: 'image' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Текст', name: 'body', widget: 'markdown' }
