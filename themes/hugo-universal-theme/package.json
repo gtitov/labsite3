@@ -5,7 +5,7 @@
     "eslint-config-standard": "^6.2.0",
     "eslint-plugin-promise": "^3.0.0",
     "eslint-plugin-standard": "^2.0.1",
-    "minimist": ">=0.2.1"
+    "minimist": ">=1.2.3"
   },
   "scripts": {
     "lint": "eslint .",
