@@ -78,3 +78,6 @@
 
 - id: 404NavHome
   translation: "Перейти на главную"
+
+- id: in
+  translation: "в категории"

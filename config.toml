@@ -104,7 +104,7 @@ paginate = 10
     copyright = "&#169; Лаборатория геоинформационных исследований 2020"
 
     # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
+    date_format = "02.01.2006"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
