@@ -15,6 +15,10 @@ collections:
       - { label: 'Название', name: 'title', widget: 'string' }
       - { label: 'Дата', name: 'date', widget: 'datetime' }
       - { label: 'Теги', name: 'tags', widget: 'list' }
-      - { label: 'Категория', name: 'categories', widget: 'list' }
+      - label: 'Категория',
+        name: 'categories',
+        widget: 'select',
+        options: ['новости', 'статьи', 'работы']
+        default: ['новости']
       - { label: 'Обложка', name: 'banner', widget: 'image' }
       - { label: 'Текст', name: 'body', widget: 'markdown' }
