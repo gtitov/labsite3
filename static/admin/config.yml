@@ -19,6 +19,9 @@ collections:
         name: 'categories'
         widget: 'select'
         options: ['новости', 'статьи', 'работы']
+        multiple: true
+        min: 1
+        max: 1
         default: ['новости']
       - { label: 'Обложка', name: 'banner', widget: 'image' }
       - { label: 'Текст', name: 'body', widget: 'markdown' }
