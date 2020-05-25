@@ -1,11 +1,13 @@
-+++
-title = "Go is for lovers"
-date = "2015-09-17T13:47:08+02:00"
-tags = ["интеграция"]
-categories = ["статьи"]
-banner = "img/banners/banner-2.jpg"
-facebook_author = "GolangSociety"
-+++
+---
+title: Go is for lovers
+date: 2015-09-17T13:47:08+02:00
+tags: 
+  - интеграция
+  - ПД
+categories: 
+  - статьи
+banner: img/banners/banner-2.jpg
+---
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for
 its template engine. It is an extremely lightweight engine that provides a very
