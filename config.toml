@@ -22,9 +22,9 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    identifier="blog"
-    name = "Посты"
-    url  = "/blog/"
+    identifier="projects"
+    name = "Проекты"
+    url  = "/projects/"
     weight = 2
 
 [[menu.main]]
@@ -66,10 +66,10 @@ paginate = 10
 #     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = "/projects/"
     author = "gman"
     defaultKeywords = ["ЦГИ", "ИГ РАН"]
-    mainSections = ["blog"]
+    mainSections = ["projects"]
     defaultDescription = "Сайт ЦГИ ИГ РАН"
 
     # Social media
@@ -119,7 +119,7 @@ paginate = 10
     # longitude = "-77.028333"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    projects = "/projects/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 # [params.topbar]
@@ -159,7 +159,7 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "Или почитайте, что мы пишем"
+    title = "Или узнайте, что мы делаем"
     subtitle = ""
 
 # [params.testimonials]

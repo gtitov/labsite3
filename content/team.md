@@ -26,4 +26,4 @@ keywords: ["ЦГИ","ЦГИ ИГ РАН","Сотрудники","работа"]
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> Хотите присоединиться? Свяжитесь с нами
