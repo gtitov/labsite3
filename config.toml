@@ -154,7 +154,7 @@ paginate = 10
     icon = "far fa-comment-dots"
     title = "Хотите узнать больше?"
     subtitle = "Свяжитесь с нами"
-    link_url = "#"
+    link_url = "contact"
     link_text = "Страница контактов"
 
 [params.recent_posts]
